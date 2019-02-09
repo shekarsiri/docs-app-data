@@ -1,0 +1,904 @@
+[
+  {
+    "name": "Laravel",
+    "version": "5.7",
+    "basePath": "https://raw.githubusercontent.com/laravel/docs/5.7/",
+    "content": [
+      {
+        "name": "Getting Started", 
+        "parent": true
+      },
+      {
+        "name": "Installation",
+        "file": "installation.md"
+      },
+      {
+        "name": "Configuration",
+        "file": "configuration.md"
+      },
+      {
+        "name": "Directory Structure",
+        "file": "structure.md"
+      },
+      {
+        "name": "Homestead",
+        "file": "homestead.md"
+      },
+      {
+        "name": "Valet",
+        "file": "valet.md"
+      },
+
+      {
+        "name": "Architecture Concepts", 
+        "parent": true
+      },
+      {
+        "name": "Request Lifecycle",
+        "file": "lifecycle.md"
+      },
+      {
+        "name": "Service Container",
+        "file": "container.md"
+      },
+      {
+        "name": "Facades",
+        "file": "facades.md"
+      },
+      {
+        "name": "Contracts",
+        "file": "contracts.md"
+      },
+
+
+      {
+        "name": "The Basics",
+        "parent": true
+      },
+      {
+        "name": "Routing",
+        "file": "routing.md"
+      },
+      {
+        "name": "Middleware",
+        "file": "middleware.md"
+      },
+      {
+        "name": "CSRF Protection",
+        "file": "csrf.md"
+      },
+      {
+        "name": "Controllers",
+        "file": "controllers.md"
+      },
+      {
+        "name": "Requests",
+        "file": "requests.md"
+      },
+      {
+        "name": "Responses",
+        "file": "responses.md"
+      },
+      {
+        "name": "Views",
+        "file": "views.md"
+      },
+      {
+        "name": "URL Generation",
+        "file": "urls.md"
+      },
+      {
+        "name": "Session",
+        "file": "session.md"
+      },
+      {
+        "name": "Validation",
+        "file": "validation.md"
+      },
+      {
+        "name": "Error Handling",
+        "file": "errors.md"
+      },
+      {
+        "name": "Logging",
+        "file": "logging.md"
+      },
+
+      {
+        "name": "Frontend",
+        "paerent": true
+      },
+      
+      {
+        "name": "Blade Templates",
+        "file": "blade.md"
+      },
+      {
+        "name": "Localization",
+        "file": "localization.md"
+      },
+      {
+        "name": "Frontend Scaffolding",
+        "file": "frontend.md"
+      },
+      {
+        "name": "Compiling Assets",
+        "file": "mix.md"
+      },
+
+
+      {
+        "name": "Security",
+        "paerent": true
+      },
+      
+      
+      {
+        "name": "Authentication",
+        "file": "authentication.md"
+      },
+      {
+        "name": "API Authentication",
+        "file": "passport.md"
+      },
+      {
+        "name": "Authorization",
+        "file": "authorization.md"
+      },
+      {
+        "name": "Email Verification",
+        "file": "verification.md"
+      },
+      {
+        "name": "Encryption",
+        "file": "encryption.md"
+      },
+      {
+        "name": "Hashing",
+        "file": "hashing.md"
+      },
+      {
+        "name": "Password Reset",
+        "file": "passwords.md"
+      },
+      
+      {
+        "name": "Digging Deeper",
+        "paerent": true
+      },
+      {
+        "name": "Artisan Console",
+        "file": "artisan.md"
+      },
+      {
+        "name": "Broadcasting",
+        "file": "broadcasting.md"
+      },
+      {
+        "name": "Cache",
+        "file": "cache.md"
+      },
+      {
+        "name": "Collections",
+        "file": "collections.md"
+      },
+      {
+        "name": "Events",
+        "file": "events.md"
+      },
+      {
+        "name": "File Storage",
+        "file": "filesystem.md"
+      },
+      {
+        "name": "Helpers",
+        "file": "helpers.md"
+      },
+      {
+        "name": "Mail",
+        "file": "mail.md"
+      },
+      {
+        "name": "Notifications",
+        "file": "notifications.md"
+      },
+      {
+        "name": "Package Development",
+        "file": "pacakges.md"
+      },
+      {
+        "name": "Queues",
+        "file": "queues.md"
+      },
+      {
+        "name": "Task Scheduling",
+        "file": "scheduling.md"
+      },
+      
+      
+      {
+        "name": "Database",
+        "paerent": true
+      },
+      {
+        "name": "Getting Started",
+        "file": "database.md"
+      },
+      {
+        "name": "Query Builder",
+        "file": "queries.md"
+      },
+      {
+        "name": "Pagination",
+        "file": "pagination.md"
+      },
+      {
+        "name": "Migrations",
+        "file": "migrations.md"
+      },
+      {
+        "name": "Seeding",
+        "file": "seeding.md"
+      },
+      {
+        "name": "Redis",
+        "file": "redis.md"
+      },
+      
+
+      {
+        "name": "Eloquent ORM",
+        "paerent": true
+      },
+      {
+        "name": "Getting Started",
+        "file": "eloquent.md"
+      },
+      {
+        "name": "Relationships",
+        "file": "eloquent-relationships.md"
+      },
+      {
+        "name": "Collections",
+        "file": "eloquent-collections.md"
+      },
+      {
+        "name": "Mutators",
+        "file": "eloquent-mutators.md"
+      },
+      {
+        "name": "API Resources",
+        "file": "eloquent-resources.md"
+      },
+      {
+        "name": "Serialization",
+        "file": "eloquent-serialization.md"
+      },
+      
+      {
+        "name": "Testing",
+        "paerent": true
+      },
+      {
+        "name": "Getting Started",
+        "file": "testing.md"
+      },
+      {
+        "name": "HTTP Tests",
+        "file": "http-tests.md"
+      },
+      {
+        "name": "Console Tests",
+        "file": "console-tests.md"
+      },
+      {
+        "name": "Browser Tests",
+        "file": "dusk.md"
+      },
+      {
+        "name": "Database",
+        "file": "database-testing.md"
+      },
+      {
+        "name": "Mocking",
+        "file": "moking.md"
+      }      
+    ]
+  },
+
+  {
+    "name": "React Native",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/facebook/react-native-website/master/docs/",
+    "content": [
+      {
+        "name": "The Basics",
+        "parent": true
+      },
+  
+      {	
+        "name": "getting-started",
+        "file": "getting-started.md"
+      },
+      {	
+        "name": "tutorial",
+        "file": "tutorial.md"
+      },
+      {	
+        "name": "props",
+        "file": "props.md"
+      },
+      {	
+        "name": "state",
+        "file": "state.md"
+      },
+      {	
+        "name": "style",
+        "file": "style.md"
+      },
+      {	
+        "name": "height-and-width",
+        "file": "height-and-width.md"
+      },
+      {	
+        "name": "flexbox",
+        "file": "flexbox.md"
+      },
+      {	
+        "name": "handling-text-input",
+        "file": "handling-text-input.md"
+      },
+      {	
+        "name": "handling-touches",
+        "file": "handling-touches.md"
+      },
+      {	
+        "name": "using-a-scrollview",
+        "file": "using-a-scrollview.md"
+      },
+      {	
+        "name": "using-a-listview",
+        "file": "using-a-listview.md"
+      },
+      {	
+        "name": "network",
+        "file": "network.md"
+      },
+      {	
+        "name": "more-resource",
+        "file": "more-resources.md"
+      },
+  
+  
+  
+      {
+        "name": "Guides",
+        "parent": true
+      },
+  
+      {
+        "name": "components-and-apis",
+        "file": "components-and-apis.md"
+      },
+      {
+        "name": "platform-specific-code",
+        "file": "platform-specific-code.md"
+      },
+      {
+        "name": "navigation",
+        "file": "navigation.md"
+      },
+      {
+        "name": "images",
+        "file": "images.md"
+      },
+      {
+        "name": "animations",
+        "file": "animations.md"
+      },
+      {
+        "name": "accessibility",
+        "file": "accessibility.md"
+      },
+      {
+        "name": "improvingux",
+        "file": "improvingux.md"
+      },
+      {
+        "name": "timers",
+        "file": "timers.md"
+      },
+      {
+        "name": "debugging",
+        "file": "debugging.md"
+      },
+      {
+        "name": "performance",
+        "file": "performance.md"
+      },
+      {
+        "name": "gesture-responder-system",
+        "file": "gesture-responder-system.md"
+      },
+      {
+        "name": "javascript-environment",
+        "file": "javascript-environment.md"
+      },
+      {
+        "name": "direct-manipulation",
+        "file": "direct-manipulation.md"
+      },
+      {
+        "name": "colors",
+        "file": "colors.md"
+      },
+      {
+        "name": "integration-with-existing-apps",
+        "file": "integration-with-existing-apps.md"
+      },
+      {
+        "name": "building-for-apple-tv",
+        "file": "building-for-apple-tv.md"
+      },
+      {
+        "name": "running-on-device",
+        "file": "running-on-device.md"
+      },
+      {
+        "name": "upgrading",
+        "file": "upgrading.md"
+      },
+      {
+        "name": "troubleshooting",
+        "file": "troubleshooting.md"
+      },
+      {
+        "name": "native-modules-setup",
+        "file": "native-modules-setup.md"
+      },
+      {
+        "name": "out-of-tree-platforms",
+        "file": "out-of-tree-platforms.md"
+      },
+  
+  
+      {
+        "name": "Guides (iOS)",
+        "parent": true
+      },
+  
+      {
+        "name": "native-modules-ios",
+        "file": "native-modules-ios.md"
+      },
+      {
+        "name": "native-components-ios",
+        "file": "native-components-ios.md"
+      },
+      {
+        "name": "linking-libraries-ios",
+        "file": "linking-libraries-ios.md"
+      },
+      {
+        "name": "running-on-simulator-ios",
+        "file": "running-on-simulator-ios.md"
+      },
+      {
+        "name": "communication-ios",
+        "file": "communication-ios.md"
+      },
+      {
+        "name": "app-extensions",
+        "file": "app-extensions.md"
+      },
+  
+  
+      {
+        "name": "Guides (Android)",
+        "parent": true
+      },
+  
+      {
+        "name": "native-modules-android",
+        "file": "native-modules-android.md"
+      },
+      {
+        "name": "native-components-android",
+        "file": "native-components-android.md"
+      },
+      {
+        "name": "headless-js-android",
+        "file": "headless-js-android.md"
+      },
+      {
+        "name": "signed-apk-android",
+        "file": "signed-apk-android.md"
+      },
+      {
+        "name": "removing-default-permissions",
+        "file": "removing-default-permissions.md"
+      },
+  
+  
+      {
+        "name": "Contributing",
+        "parent": true
+      },
+  
+      {
+        "name": "contributing",
+        "file": "contributing.md"
+      },
+      {
+        "name": "maintainers",
+        "file": "maintainers.md"
+      },
+      {
+        "name": "building-from-source",
+        "file": "building-from-source.md"
+      },
+      {
+        "name": "publishing-forks",
+        "file": "publishing-forks.md"
+      },
+      {
+        "name": "testing",
+        "file": "testing.md"
+      },
+  
+  
+      {
+        "name": "Components",
+        "parent": true
+      },
+  
+      {	
+        "name": "activityindicator",
+        "file": "activityindicator.md"
+      },
+      {	
+        "name": "button",
+        "file": "button.md"
+      },
+      {	
+        "name": "datepickerios",
+        "file": "datepickerios.md"
+      },
+      {	
+        "name": "drawerlayoutandroid",
+        "file": "drawerlayoutandroid.md"
+      },
+      {	
+        "name": "flatlist",
+        "file": "flatlist.md"
+      },
+      {	
+        "name": "image",
+        "file": "image.md"
+      },
+      {	
+        "name": "imagebackground",
+        "file": "imagebackground.md"
+      },
+      {	
+        "name": "inputaccessoryview",
+        "file": "inputaccessoryview.md"
+      },
+      {	
+        "name": "keyboardavoidingview",
+        "file": "keyboardavoidingview.md"
+      },
+      {	
+        "name": "listview",
+        "file": "listview.md"
+      },
+      {	
+        "name": "maskedviewios",
+        "file": "maskedviewios.md"
+      },
+      {	
+        "name": "modal",
+        "file": "modal.md"
+      },
+      {	
+        "name": "picker",
+        "file": "picker.md"
+      },
+      {	
+        "name": "pickerios",
+        "file": "pickerios.md"
+      },
+      {	
+        "name": "progressbarandroid",
+        "file": "progressbarandroid.md"
+      },
+      {	
+        "name": "progressviewios",
+        "file": "progressviewios.md"
+      },
+      {	
+        "name": "refreshcontrol",
+        "file": "refreshcontrol.md"
+      },
+      {	
+        "name": "safeareaview",
+        "file": "safeareaview.md"
+      },
+      {	
+        "name": "scrollview",
+        "file": "scrollview.md"
+      },
+      {	
+        "name": "sectionlist",
+        "file": "sectionlist.md"
+      },
+      {	
+        "name": "segmentedcontrolios",
+        "file": "segmentedcontrolios.md"
+      },
+      {	
+        "name": "slider",
+        "file": "slider.md"
+      },
+      {	
+        "name": "snapshotviewios",
+        "file": "snapshotviewios.md"
+      },
+      {	
+        "name": "statusbar",
+        "file": "statusbar.md"
+      },
+      {	
+        "name": "switch",
+        "file": "switch.md"
+      },
+      {	
+        "name": "text",
+        "file": "text.md"
+      },
+      {	
+        "name": "textinput",
+        "file": "textinput.md"
+      },
+      {	
+        "name": "toolbarandroid",
+        "file": "toolbarandroid.md"
+      },
+      {	
+        "name": "touchablehighlight",
+        "file": "touchablehighlight.md"
+      },
+      {	
+        "name": "touchablenativefeedback",
+        "file": "touchablenativefeedback.md"
+      },
+      {	
+        "name": "touchableopacity",
+        "file": "touchableopacity.md"
+      },
+      {	
+        "name": "touchablewithoutfeedback",
+        "file": "touchablewithoutfeedback.md"
+      },
+      {	
+        "name": "view",
+        "file": "view.md"
+      },
+      {	
+        "name": "viewpagerandroid",
+        "file": "viewpagerandroid.md"
+      },
+      {	
+        "name": "virtualizedlist",
+        "file": "virtualizedlist.md"
+      },
+      {	
+        "name": "webview",
+        "file": "webview.md"
+      },
+  
+  
+      {
+        "name": "APIs",
+        "parent": true
+      },
+  
+      {
+        "name": "accessibilityinfo",
+        "file": "accessibilityinfo.md"
+      },
+      {
+        "name": "actionsheetios",
+        "file": "actionsheetios.md"
+      },
+      {
+        "name": "alert",
+        "file": "alert.md"
+      },
+      {
+        "name": "alertios",
+        "file": "alertios.md"
+      },
+      {
+        "name": "animated",
+        "file": "animated.md"
+      },
+      {
+        "name": "appregistry",
+        "file": "appregistry.md"
+      },
+      {
+        "name": "appstate",
+        "file": "appstate.md"
+      },
+      {
+        "name": "asyncstorage",
+        "file": "asyncstorage.md"
+      },
+      {
+        "name": "backandroid",
+        "file": "backandroid.md"
+      },
+      {
+        "name": "backhandler",
+        "file": "backhandler.md"
+      },
+      {
+        "name": "cameraroll",
+        "file": "cameraroll.md"
+      },
+      {
+        "name": "clipboard",
+        "file": "clipboard.md"
+      },
+      {
+        "name": "datepickerandroid",
+        "file": "datepickerandroid.md"
+      },
+      {
+        "name": "dimensions",
+        "file": "dimensions.md"
+      },
+      {
+        "name": "easing",
+        "file": "easing.md"
+      },
+      {
+        "name": "geolocation",
+        "file": "geolocation.md"
+      },
+      {
+        "name": "imageeditor",
+        "file": "imageeditor.md"
+      },
+      {
+        "name": "imagepickerios",
+        "file": "imagepickerios.md"
+      },
+      {
+        "name": "imagestore",
+        "file": "imagestore.md"
+      },
+      {
+        "name": "image-style-props",
+        "file": "image-style-props.md"
+      },
+      {
+        "name": "interactionmanager",
+        "file": "interactionmanager.md"
+      },
+      {
+        "name": "keyboard",
+        "file": "keyboard.md"
+      },
+      {
+        "name": "layout-props",
+        "file": "layout-props.md"
+      },
+      {
+        "name": "layoutanimation",
+        "file": "layoutanimation.md"
+      },
+      {
+        "name": "linking",
+        "file": "linking.md"
+      },
+      {
+        "name": "listviewdatasource",
+        "file": "listviewdatasource.md"
+      },
+      {
+        "name": "netinfo",
+        "file": "netinfo.md"
+      },
+      {
+        "name": "panresponder",
+        "file": "panresponder.md"
+      },
+      {
+        "name": "permissionsandroid",
+        "file": "permissionsandroid.md"
+      },
+      {
+        "name": "pixelratio",
+        "file": "pixelratio.md"
+      },
+      {
+        "name": "pushnotificationios",
+        "file": "pushnotificationios.md"
+      },
+      {
+        "name": "settings",
+        "file": "settings.md"
+      },
+      {
+        "name": "shadow-props",
+        "file": "shadow-props.md"
+      },
+      {
+        "name": "share",
+        "file": "share.md"
+      },
+      {
+        "name": "statusbarios",
+        "file": "statusbarios.md"
+      },
+      {
+        "name": "stylesheet",
+        "file": "stylesheet.md"
+      },
+      {
+        "name": "systrace",
+        "file": "systrace.md"
+      },
+      {
+        "name": "text-style-props",
+        "file": "text-style-props.md"
+      },
+      {
+        "name": "timepickerandroid",
+        "file": "timepickerandroid.md"
+      },
+      {
+        "name": "toastandroid",
+        "file": "toastandroid.md"
+      },
+      {
+        "name": "transforms",
+        "file": "transforms.md"
+      },
+      {
+        "name": "vibration",
+        "file": "vibration.md"
+      },
+      {
+        "name": "vibrationios",
+        "file": "vibrationios.md"
+      },
+      {
+        "name": "view-style-props",
+        "file": "view-style-prop.md"
+      }
+    ]
+  },
+
+  {
+    "name": "Airbnb JavaScript Style Guide",
+    "version": "eslint-config-airbnb-v17.1.0",
+    "basePath": "https://raw.githubusercontent.com/airbnb/javascript/eslint-config-airbnb-v17.1.0/",
+    "content": [
+      {
+        "name": "JavaScript Style Guide",
+        "file": "README.md"
+      },
+      {
+        "name": "Airbnb React/JSX Style Guide",
+        "file": "react/README.md"
+      },
+      {
+        "name": "Airbnb CSS-in-JavaScript Style Guide",
+        "file": "css-in-javascript/README.md"
+      }
+    ]
+  }
+]
