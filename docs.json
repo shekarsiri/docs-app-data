@@ -901,5 +901,62 @@
         "file": "css-in-javascript/README.md"
       }
     ]
+  },
+
+  {
+    "name": "VueJS",
+    "version": "v2",
+    "basePath": "https://raw.githubusercontent.com/vuejs/vuejs.org/master/src/v2/",
+    "content": [
+      {
+        "name": "Guide",
+        "child": [
+          {
+            "name": "Installation",
+            "file": "guide/installation.md"
+          },
+          {
+              "name": "Introduction",
+              "file": "guide/index.md"
+          },
+          {
+              "name": "The Vue Instance",
+              "file": "guide/instance.md"
+          },
+          {
+              "name": "Template Syntax",
+              "file": "guide/syntax.md"
+          },
+          {
+              "name": "Computed Properties and Watchers",
+              "file": "guide/computed.md"
+          },
+          {
+              "name": "Class and Style Bindings",
+              "file": "guide/class-and-style.md"
+          },
+          {
+              "name": "Conditional Rendering",
+              "file": "guide/conditional.md"
+          },
+          {
+              "name": "List Rendering",
+              "file": "guide/list.md"
+          },
+          {
+              "name": "Event Handling",
+              "file": "guide/events.md"
+          },
+          {
+              "name": "Form Input Bindings",
+              "file": "guide/forms.md"
+          },
+          {
+              "name": "Components Basics",
+              "file": "guide/components.md"
+          }
+        ]
+      }
+    ]
   }
 ]
