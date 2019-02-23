@@ -535,6 +535,34 @@
   },
 
   {
+    "name": "You Don't Know JS: Up & Going",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/up%20%26%20going/",
+    "content": [
+      {
+        "name": "Table of Contents",
+        "file": "toc.md"
+      },
+      {
+        "name": "Chapter 1: Into Programming",
+        "file": "ch1.md"
+      },
+      {
+        "name": "Chapter 2: Into JavaScript",
+        "file": "ch2.md"
+      },
+      {
+        "name": "Chapter 3: Into YDKJS",
+        "file": "ch3.md"
+      },
+      {
+        "name": "Appendix A: Acknowledgments",
+        "file": "apA.md"
+      }
+    ]
+  },
+
+  {
     "name": "React Native",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/facebook/react-native-website/master/docs/",
