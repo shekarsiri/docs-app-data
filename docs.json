@@ -495,6 +495,46 @@
   },
 
   {
+    "name": "You Don't Know JS: Types & Grammar",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/types%20%26%20grammar/",
+    "content": [
+      {
+        "name": "Table of Contents",
+        "file": "toc.md"
+      },
+      {
+        "name": "Chapter 1: Types",
+        "file": "ch1.md"
+      },
+      {
+        "name": "Chapter 2: Values",
+        "file": "ch2.md"
+      },
+      {
+        "name": "Chapter 3: Natives",
+        "file": "ch3.md"
+      },
+      {
+        "name": "Chapter 4: Coercion",
+        "file": "ch4.md"
+      },
+      {
+        "name": "Chapter 5: Grammar",
+        "file": "ch5.md"
+      },
+      {
+        "name": "Appendix A: Mixed Environment JavaScript",
+        "file": "apA.md"
+      },
+      {
+        "name": "Appendix B: Acknowledgments",
+        "file": "apB.md"
+      }
+    ]
+  },
+
+  {
     "name": "React Native",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/facebook/react-native-website/master/docs/",
