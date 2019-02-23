@@ -412,10 +412,6 @@
     "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/scope%20%26%20closures/",
     "content": [
       {
-        "name": "Preface",
-        "file": "preface.md"
-      },
-      {
         "name": "Table of Contents",
         "file": "toc.md"
       },
@@ -450,6 +446,50 @@
       {
         "name": "Appendix D: Acknowledgments",
         "file": "apD.md"
+      }
+    ]
+  },
+
+  {
+    "name": "You Don't Know JS: this & Object Prototypes",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/this%20%26%20object%20prototypes/",
+    "content": [
+      {
+        "name": "Table of Contents",
+        "file": "toc.md"
+      },
+      {
+        "name": "Chapter 1: this Or That?",
+        "file": "ch1.md"
+      },
+      {
+        "name": "Chapter 2: this All Makes Sense Now!",
+        "file": "ch2.md"
+      },
+      {
+        "name": "Chapter 3: Objects",
+        "file": "ch3.md"
+      },
+      {
+        "name": "Chapter 4: Mixing (Up) Class Objects",
+        "file": "ch4.md"
+      },
+      {
+        "name": "Chapter 5: Prototypes",
+        "file": "ch5.md"
+      },
+      {
+        "name": "Chapter 6: Behavior Delegation",
+        "file": "ch6.md"
+      },
+      {
+        "name": "Appendix A: ES6 class",
+        "file": "apA.md"
+      },
+      {
+        "name": "Appendix B: Acknowledgments",
+        "file": "apB.md"
       }
     ]
   },
