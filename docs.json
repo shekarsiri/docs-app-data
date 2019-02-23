@@ -339,6 +339,18 @@
   },
 
   {
+    "name": "ES6 Cheatsheet",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/DrkSephy/es6-cheatsheet/master/",
+    "content": [
+      {
+        "name": "ES6 Cheatsheet",
+        "file": "README.md"
+      }
+    ]
+  },
+
+  {
     "name": "ES6 & Beyond",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/es6%20%26%20beyond/",
