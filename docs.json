@@ -407,6 +407,54 @@
   },
 
   {
+    "name": "You Don't Know JS: Scope & Closures",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/scope%20%26%20closures/",
+    "content": [
+      {
+        "name": "Preface",
+        "file": "preface.md"
+      },
+      {
+        "name": "Table of Contents",
+        "file": "toc.md"
+      },
+      {
+        "name": "Chapter 2: Lexical Scope",
+        "file": "ch1.md"
+      },
+      {
+        "name": "Chapter 3: Function vs. Block Scope",
+        "file": "ch2.md"
+      },
+      {
+        "name": "Chapter 4: Hoisting",
+        "file": "ch3.md"
+      },
+      {
+        "name": "Chapter 5: Scope Closures",
+        "file": "ch4.md"
+      },
+      {
+        "name": "Appendix A: Dynamic Scope",
+        "file": "apA.md"
+      },
+      {
+        "name": "Appendix B: Polyfilling Block Scope",
+        "file": "apB.md"
+      },
+      {
+        "name": "Appendix C: Lexical-this",
+        "file": "apC.md"
+      },
+      {
+        "name": "Appendix D: Acknowledgments",
+        "file": "apD.md"
+      }
+    ]
+  },
+
+  {
     "name": "React Native",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/facebook/react-native-website/master/docs/",
