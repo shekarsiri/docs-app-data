@@ -315,6 +315,50 @@
   },
 
   {
+    "name": "ES6 & Beyond",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/es6%20%26%20beyond/",
+    "content": [
+      {
+        "name": "Table of Contents",
+        "file": "toc.md"
+      },
+      {
+        "name": "Chapter 1: ES? Now & Future",
+        "file": "ch1.md"
+      },
+      {
+        "name": "Chapter 2: Syntax",
+        "file": "ch2.md"
+      },
+      {
+        "name": "Chapter 3: Organization",
+        "file": "ch3.md"
+      },
+      {
+        "name": "Chapter 4: Async Flow Control",
+        "file": "ch4.md"
+      },
+      {
+        "name": "Chapter 5: Collections",
+        "file": "ch5.md"
+      },
+      {
+        "name": "Chapter 6: API Additions",
+        "file": "ch6.md"
+      },
+      {
+        "name": "Chapter 7: Meta Programming",
+        "file": "ch7.md"
+      },
+      {
+        "name": "Chapter 8: Beyond ES6",
+        "file": "ch8.md"
+      }
+    ]
+  },
+
+  {
     "name": "React Native",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/facebook/react-native-website/master/docs/",
