@@ -315,6 +315,18 @@
   },
 
   {
+    "name": "ES6 for Humans",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/metagrover/ES6-for-humans/master/",
+    "content": [
+      {
+        "name": "ES6 for Humans",
+        "file": "README.md"
+      }
+    ]
+  },
+
+  {
     "name": "ES6 & Beyond",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/es6%20%26%20beyond/",
