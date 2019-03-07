@@ -678,7 +678,7 @@
   {
     "name": "Redux",
     "version": "master",
-    "basePath": "https://raw.githubusercontent.com/reduxjs/redux/master/",
+    "basePath": "https://raw.githubusercontent.com/reduxjs/redux/master/docs/",
     "content": [
       {
         "name": "Introduction",
