@@ -676,6 +676,204 @@
   },
 
   {
+    "name": "Redux",
+    "version": "master",
+    "basePath": "https://raw.githubusercontent.com/reduxjs/redux/master/",
+    "content": [
+      {
+        "name": "Introduction",
+        "child": [
+          {
+            "name": "Motivation",
+            "file": "introduction/Motivation.md"
+          },
+          {
+            "name": "Core Concepts",
+            "file": "introduction/CoreConcepts.md"
+          },
+          {
+            "name": "Three Principles",
+            "file": "introduction/ThreePrinciples.md"
+          },
+          {
+            "name": "Prior Art",
+            "file": "introduction/PriorArt.md"
+          },
+          {
+            "name": "Learning Resources",
+            "file": "introduction/LearningResources.md"
+          },
+          {
+            "name": "Ecosystem",
+            "file": "introduction/Ecosystem.md"
+          },
+          {
+            "name": "Examples",
+            "file": "introduction/Examples.md"
+          }
+        ]
+      },
+
+      {
+        "name": "Basics",
+        "child": [
+          {
+            "name": "Actions",
+            "file": "basics/Actions.md"
+          },
+          {
+            "name": "Reducers",
+            "file": "basics/Reducers.md"
+          },
+          {
+            "name": "Store",
+            "file": "basics/Store.md"
+          },
+          {
+            "name": "Data Flow",
+            "file": "basics/DataFlow.md"
+          },
+          {
+            "name": "Usage with React",
+            "file": "basics/UsageWithReact.md"
+          },
+          {
+            "name": "Example: Todo List",
+            "file": "basics/ExampleTodoList.md"
+          }
+        ]
+      },
+
+      {
+        "name": "Advanced",
+        "child": [
+          {
+            "name": "Async Actions",
+            "file": "advanced/AsyncActions.md"
+          },
+          {
+            "name": "Async Flow",
+            "file": "advanced/AsyncFlow.md"
+          },
+          {
+            "name": "Middleware",
+            "file": "advanced/Middleware.md"
+          },
+          {
+            "name": "Usage with React Router",
+            "file": "advanced/UsageWithReactRouter.md"
+          },
+          {
+            "name": "Example: Reddit API",
+            "file": "advanced/ExampleRedditAPI.md"
+          },
+          {
+            "name": "Next Steps",
+            "file": "advanced/NextSteps.md"
+          }         
+        ]
+      },
+      
+
+      {
+        "name": "Recipes",
+        "child": [
+          {
+            "name": "Configuring Your Store",
+            "file": "recipes/ConfiguringYourStore.md"
+          },
+          {
+            "name": "Migrating to Redux",
+            "file": "recipes/MigratingToRedux.md"
+          },
+          {
+            "name": "Using Object Spread Operator",
+            "file": "recipes/UsingObjectSpreadOperator.md"
+          },
+          {
+            "name": "Reducing Boilerplate",
+            "file": "recipes/ReducingBoilerplate.md"
+          },
+          {
+            "name": "Server Rendering",
+            "file": "recipes/ServerRendering.md"
+          },
+          {
+            "name": "Writing Tests",
+            "file": "recipes/WritingTests.md"
+          },
+          {
+            "name": "Computing Derived Data",
+            "file": "recipes/ComputingDerivedData.md"
+          },
+          {
+            "name": "Implementing Undo History",
+            "file": "recipes/ImplementingUndoHistory.md"
+          },
+          {
+            "name": "Isolating Subapps",
+            "file": "recipes/IsolatingSubapps.md"
+          },
+          {
+            "name": "Using Immutable.JS with Redux",
+            "file": "recipes/UsingImmutableJS.md"
+          }
+        ]
+      },
+
+      {
+        "name": "Recipes - Structuring Reducers",
+        "child": [
+          {
+            "name": "Prerequisite Concepts",
+            "file": "recipes/structuring-reducers/PrerequisiteConcepts.md"
+          },
+          {
+            "name": "Basic Reducer Structure",
+            "file": "recipes/structuring-reducers/BasicReducerStructure.md"
+          },
+          {
+            "name": "Splitting Reducer Logic",
+            "file": "recipes/structuring-reducers/SplittingReducerLogic.md"
+          },
+          {
+            "name": "Refactoring Reducers Example",
+            "file": "recipes/structuring-reducers/RefactoringReducersExample.md"
+          },
+          {
+            "name": "Using combineReducers",
+            "file": "recipes/structuring-reducers/UsingCombineReducers.md"
+          },
+          {
+            "name": "Beyond combineReducers",
+            "file": "recipes/structuring-reducers/BeyondCombineReducers.md"
+          },
+          {
+            "name": "Normalizing State Shape",
+            "file": "recipes/structuring-reducers/NormalizingStateShape.md"
+          },
+          {
+            "name": "Updating Normalized Data",
+            "file": "recipes/structuring-reducers/UpdatingNormalizedData.md"
+          },
+          {
+            "name": "Reusing Reducer Logic",
+            "file": "recipes/structuring-reducers/ReusingReducerLogic.md"
+          },
+          {
+            "name": "Immutable Update Patterns",
+            "file": "recipes/structuring-reducers/ImmutableUpdatePatterns.md"
+          },
+          {
+            "name": "Initializing State",
+            "file": "recipes/structuring-reducers/InitializingState.md"
+          }                
+        ]
+      }       
+    ]
+  },
+
+  {
     "name": "ES6 for Humans",
     "version": "master",
     "basePath": "https://raw.githubusercontent.com/metagrover/ES6-for-humans/master/",
