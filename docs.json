@@ -1,5 +1,366 @@
 [
   {
+    "name": "Laravel 6.x",
+    "version": "5.8",
+    "basePath": "https://raw.githubusercontent.com/laravel/docs/6.x/",
+    "content": [
+      {
+        "name": "Getting Started",
+        "child": [
+          {
+            "name": "Installation",
+            "file": "installation.md"
+          },
+          {
+            "name": "Configuration",
+            "file": "configuration.md"
+          },
+          {
+            "name": "Directory Structure",
+            "file": "structure.md"
+          },
+          {
+            "name": "Homestead",
+            "file": "homestead.md"
+          },
+          {
+            "name": "Valet",
+            "file": "valet.md"
+          },
+          {
+            "name": "Deployment",
+            "file": "deployment.md"
+          }
+        ]
+      },
+
+      {
+        "name": "Architecture Concepts", 
+        "child": [
+          {
+            "name": "Request Lifecycle",
+            "file": "lifecycle.md"
+          },
+          {
+            "name": "Service Container",
+            "file": "container.md"
+          },
+          {
+            "name": "Service Providers",
+            "file": "providers.md"
+          },
+          {
+            "name": "Facades",
+            "file": "facades.md"
+          },
+          {
+            "name": "Contracts",
+            "file": "contracts.md"
+          }
+        ]
+      },
+
+      {
+        "name": "The Basics",
+        "child": [
+          {
+            "name": "Routing",
+            "file": "routing.md"
+          },
+          {
+            "name": "Middleware",
+            "file": "middleware.md"
+          },
+          {
+            "name": "CSRF Protection",
+            "file": "csrf.md"
+          },
+          {
+            "name": "Controllers",
+            "file": "controllers.md"
+          },
+          {
+            "name": "Requests",
+            "file": "requests.md"
+          },
+          {
+            "name": "Responses",
+            "file": "responses.md"
+          },
+          {
+            "name": "Views",
+            "file": "views.md"
+          },
+          {
+            "name": "URL Generation",
+            "file": "urls.md"
+          },
+          {
+            "name": "Session",
+            "file": "session.md"
+          },
+          {
+            "name": "Validation",
+            "file": "validation.md"
+          },
+          {
+            "name": "Error Handling",
+            "file": "errors.md"
+          },
+          {
+            "name": "Logging",
+            "file": "logging.md"
+          }
+        ]
+      },
+      
+
+      {
+        "name": "Frontend",
+        "child": [
+          {
+            "name": "Blade Templates",
+            "file": "blade.md"
+          },
+          {
+            "name": "Localization",
+            "file": "localization.md"
+          },
+          {
+            "name": "Frontend Scaffolding",
+            "file": "frontend.md"
+          },
+          {
+            "name": "Compiling Assets",
+            "file": "mix.md"
+          }
+        ]
+      },
+
+      {
+        "name": "Security",
+        "child": [
+          {
+            "name": "Authentication",
+            "file": "authentication.md"
+          },
+          {
+            "name": "API Authentication",
+            "file": "passport.md"
+          },
+          {
+            "name": "Authorization",
+            "file": "authorization.md"
+          },
+          {
+            "name": "Email Verification",
+            "file": "verification.md"
+          },
+          {
+            "name": "Encryption",
+            "file": "encryption.md"
+          },
+          {
+            "name": "Hashing",
+            "file": "hashing.md"
+          },
+          {
+            "name": "Password Reset",
+            "file": "passwords.md"
+          }
+        ]
+      },
+  
+      
+      {
+        "name": "Digging Deeper",
+        "child": [
+          {
+            "name": "Artisan Console",
+            "file": "artisan.md"
+          },
+          {
+            "name": "Broadcasting",
+            "file": "broadcasting.md"
+          },
+          {
+            "name": "Cache",
+            "file": "cache.md"
+          },
+          {
+            "name": "Collections",
+            "file": "collections.md"
+          },
+          {
+            "name": "Events",
+            "file": "events.md"
+          },
+          {
+            "name": "File Storage",
+            "file": "filesystem.md"
+          },
+          {
+            "name": "Helpers",
+            "file": "helpers.md"
+          },
+          {
+            "name": "Mail",
+            "file": "mail.md"
+          },
+          {
+            "name": "Notifications",
+            "file": "notifications.md"
+          },
+          {
+            "name": "Package Development",
+            "file": "pacakges.md"
+          },
+          {
+            "name": "Queues",
+            "file": "queues.md"
+          },
+          {
+            "name": "Task Scheduling",
+            "file": "scheduling.md"
+          }
+        ]
+      },
+      
+      
+      {
+        "name": "Database",
+        "child": [
+          {
+            "name": "Getting Started",
+            "file": "database.md"
+          },
+          {
+            "name": "Query Builder",
+            "file": "queries.md"
+          },
+          {
+            "name": "Pagination",
+            "file": "pagination.md"
+          },
+          {
+            "name": "Migrations",
+            "file": "migrations.md"
+          },
+          {
+            "name": "Seeding",
+            "file": "seeding.md"
+          },
+          {
+            "name": "Redis",
+            "file": "redis.md"
+          }
+        ]
+      },
+      
+      
+
+      {
+        "name": "Eloquent ORM",
+        "child": [
+          {
+            "name": "Getting Started",
+            "file": "eloquent.md"
+          },
+          {
+            "name": "Relationships",
+            "file": "eloquent-relationships.md"
+          },
+          {
+            "name": "Collections",
+            "file": "eloquent-collections.md"
+          },
+          {
+            "name": "Mutators",
+            "file": "eloquent-mutators.md"
+          },
+          {
+            "name": "API Resources",
+            "file": "eloquent-resources.md"
+          },
+          {
+            "name": "Serialization",
+            "file": "eloquent-serialization.md"
+          }
+        ]
+      },
+      
+      
+      {
+        "name": "Testing",
+        "child": [
+          {
+            "name": "Getting Started",
+            "file": "testing.md"
+          },
+          {
+            "name": "HTTP Tests",
+            "file": "http-tests.md"
+          },
+          {
+            "name": "Console Tests",
+            "file": "console-tests.md"
+          },
+          {
+            "name": "Browser Tests",
+            "file": "dusk.md"
+          },
+          {
+            "name": "Database",
+            "file": "database-testing.md"
+          },
+          {
+            "name": "Mocking",
+            "file": "moking.md"
+          }
+        ]
+      },
+      
+      {
+        "name": "Official Packages",
+        "child": [
+          {
+            "name": "Cashier",
+            "file": "billing.md"
+          },
+          {
+            "name": "Dusk",
+            "file": "dusk.md"
+          },
+          {
+            "name": "Envoy",
+            "file": "envoy.md"
+          },
+          {
+            "name": "Horizon",
+            "file": "horizon.md"
+          },
+          {
+            "name": "Passport",
+            "file": "passport.md"
+          },
+          {
+            "name": "Scout",
+            "file": "scout.md"
+          },
+          {
+            "name": "Socialite",
+            "file": "socialite.md"
+          },
+          {
+            "name": "Telescope",
+            "file": "telescope.md"
+          }
+        ]
+      } 
+    ]
+  },
+
+  {
     "name": "Laravel 5.8",
     "version": "5.8",
     "basePath": "https://raw.githubusercontent.com/laravel/docs/5.8/",
