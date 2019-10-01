@@ -1,4 +1,4 @@
-# Docs Reader - App Data
+# Dev Docs Reader - App Data
 
 This is a repo to maintain the data for the app [Docs Reader](https://play.google.com/store/apps/details?id=com.teklogiks.docs).
 

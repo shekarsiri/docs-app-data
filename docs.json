@@ -1,7 +1,7 @@
 [
   {
     "name": "Laravel 6.x",
-    "version": "5.8",
+    "version": "6.x",
     "basePath": "https://raw.githubusercontent.com/laravel/docs/6.x/",
     "content": [
       {
